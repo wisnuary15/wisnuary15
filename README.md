@@ -1,5 +1,5 @@
 # 💫 About Me:
-Gak bisa" apa" gw bro
+Gak bisa apa" gw bro
 
 ini asal"an aja ngisinya
 
