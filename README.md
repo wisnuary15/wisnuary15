@@ -1,6 +1,7 @@
 # 💫 About Me:
-👨‍💻 I'm currently working on: Developing a new web application for managing personal finances.<br>🤝 I'm looking to collaborate on: Open-source projects related to machine learning and natural language processing.<br>🔍 I'm looking for help with: Implementing advanced algorithms for data analysis in Python.<br>📚 I'm currently learning: Deep learning techniques for image recognition.<br>❓ Ask me about: Tips for efficient code optimization in Python.<br>🎉 Fun fact: The world's largest desert is not the Sahara, but Antarctica!
+Gak bisa" apa" gw bro
 
+ini asal"an aja ngisinya
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/wisnuary15) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wisnuary15) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@wisnuary15) 
